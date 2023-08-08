@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Avody
 - 👀 I’m interested in programming in Python but as i'm studying Computer Engineering and Informatics, everyday i come across with many new interesting things.
 - 🌱 I’m currently learning Data Structures, Arithmetic Analysis and Logic Design.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Send an email here odavramop@gmail.com
 
 <!---
