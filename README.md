@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Avody
-- 👀 I’m interested in programming in Python but as i'm studying Computer Engineering, everyday i come across with many new interesting things.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 📚 Currently, I'm working on DevOps and MLOps.
 - 📫 How to reach me ? Send an email here odavramop@gmail.com
 
 <!---
