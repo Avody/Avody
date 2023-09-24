@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avody
-- 👀 I’m interested in Data Science and Machine Learning.
-- 📚 Currently, I'm working on Data Engineering skills
+- 👀 I’m interested in Data Engineering, Data Science
+- 📚 Currently, I'm working on my Data Engineering skills
 - 📫 How to reach me ? Send an email here odavramop@gmail.com
 
 <!---
